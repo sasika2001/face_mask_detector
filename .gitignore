@@ -1,13 +1,17 @@
 # Ignore Python virtual environment
 venv/
 
-# Ignore cache and compiled files
+# Ignore compiled Python files
 __pycache__/
 *.pyc
 
-# Ignore model files
+# Ignore Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files (optional)
 *.h5
 *.model
 
-# System files
+# Ignore system files
 .DS_Store
+Thumbs.db
