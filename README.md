@@ -5,17 +5,17 @@
 It uses <strong>OpenCV</strong> for face detection and <strong>MobileNetV2 (TensorFlow)</strong> for mask classification.</p>
 
 <blockquote>
-💡 <em>Example:</em><br>
+ <em>Example:</em><br>
 If a person appears in front of the webcam, the system will classify them as <strong>"Mask"</strong> or <strong>"No Mask"</strong> and highlight their face with bounding boxes.
 </blockquote>
 
-<h2>🎯 Key Features</h2>
+<h2> Key Features</h2>
 <ul>
-  <li>✅ Real-time face mask detection using webcam</li>
-  <li>✅ Detects multiple faces simultaneously</li>
-  <li>✅ High accuracy using MobileNetV2 CNN</li>
-  <li>✅ Visual feedback with bounding boxes and labels</li>
-  <li>✅ Easy to extend for custom datasets</li>
+  <li>* Real-time face mask detection using webcam</li>
+  <li>* Detects multiple faces simultaneously</li>
+  <li>* High accuracy using MobileNetV2 CNN</li>
+  <li>* Visual feedback with bounding boxes and labels</li>
+  <li>* Easy to extend for custom datasets</li>
 </ul>
 
 <h2>🧠 System Workflow</h2>
